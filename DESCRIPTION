@@ -1,0 +1,9 @@
+Package: fakeDataWithError
+Type: Package
+Title: Creates data sets with specified types of error
+Version: 0.0.1
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
