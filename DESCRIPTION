@@ -2,8 +2,9 @@ Package: fakeDataWithError
 Type: Package
 Title: Creates data sets with specified types of error
 Version: 0.0.1
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Robert M Flight <rflight79@gmail.com>
+Maintainer: Robert M Flight <rflight79@gmail.com>
+Description: Allows one to create data with additive, proportional or mixed
+  error in specific amounts.
 License: MIT
 LazyData: TRUE
